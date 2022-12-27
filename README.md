@@ -7,13 +7,20 @@ In my current role, I work 18 hours every week day, demonstrating my dedication 
 My skills and abilities have been recognized in several local and international hackathon competitions, where I have earned three wins. These experiences have helped me develop strong problem-solving skills and the ability to work well under pressure, qualities that have served me well in my career as a full-stack developer.
 
 Overall, I am confident in my ability to be a valuable asset to any team or project, and I am excited to bring my skills and experience to new challenges and opportunities.
+ 
+## Achievements
+#### 2020
+Champion in Finastra: Banking for a Better Future Category Globally
+2nd runner up in Finastra: Hack to the future
 
-**My Reseach Interest**:
-- Blockchain
-- AI
-- Chatbot
-- Automation
-- Machine Learning
+#### 2019
+Top 12 in the Philam Life hackathon (Mentor)
+Champion in Home Credit Hackathon 2019
+Top 10 in Impact Hackathon
+Top 6 in the Climathon Pasig
+Participant in First PNP Hackathon2019
+Champion in Macquarie Hackathon
+Top 5 AWS Hackathon winners in the Philippines
    
 ## Skills:
 
