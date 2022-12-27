@@ -10,17 +10,17 @@ Overall, I am confident in my ability to be a valuable asset to any team or proj
  
 ## Achievements
 #### 2020
-Champion in Finastra: Banking for a Better Future Category Globally
-2nd runner up in Finastra: Hack to the future
+Champion in Finastra: Banking for a Better Future Category Globally <br>
+2nd runner up in Finastra: Hack to the future<br>
 
 #### 2019
-Top 12 in the Philam Life hackathon (Mentor)
-Champion in Home Credit Hackathon 2019
-Top 10 in Impact Hackathon
-Top 6 in the Climathon Pasig
-Participant in First PNP Hackathon2019
-Champion in Macquarie Hackathon
-Top 5 AWS Hackathon winners in the Philippines
+Top 12 in the Philam Life hackathon (Mentor)<br>
+Champion in Home Credit Hackathon 2019<br>
+Top 10 in Impact Hackathon<br>
+Top 6 in the Climathon Pasig<br>
+Participant in First PNP Hackathon2019<br>
+Champion in Macquarie Hackathon<br>
+Top 5 AWS Hackathon winners in the Philippines<br>
    
 ## Skills:
 
